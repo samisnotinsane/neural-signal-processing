@@ -1,7 +1,7 @@
 # neural-signal-processing
 
-![](figures/sine_waves.png)
+![1](figures/sine_waves.png)
 
-![]('figures/fourier_sines.png')
-![]('figures/fourier_frex.png')
+![2]('figures/fourier_sines.png')
+![3]('figures/fourier_frex.png')
 

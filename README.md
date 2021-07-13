@@ -5,4 +5,4 @@
 ![3](figures/sine_waves.png)
 ![4](figures/fourier_sines.png)
 ![5](figures/fourier_frex.png)
-
+![6](figures/stft_spectrogram.png)
